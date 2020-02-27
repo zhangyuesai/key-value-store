@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="key-value-store:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/key_value_store_jar</output-path>
+    <root id="archive" name="key-value-store.jar">
+      <element id="module-output" name="key-value-store" />
+    </root>
+  </artifact>
+</component>
